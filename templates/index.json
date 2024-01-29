@@ -1,0 +1,133 @@
+{
+  "sections": {
+    "slideshow_xqyDYy": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Uj3ag7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/social-sharing.jpg",
+            "heading": "BODY",
+            "heading_size": "h2",
+            "subheading": "GLOW + SHINE",
+            "button_label": "DISCOVER PRODUCTS",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-bace516d-93ec-4db5-9eb3-d82c35d552d6",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "slide_CRUcpJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slideshow-01.jpg",
+            "heading": "NEW IN",
+            "heading_size": "h2",
+            "subheading": "DISCOVER OUR MOSQUES",
+            "button_label": "VIEW MOSQUES",
+            "link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-bace516d-93ec-4db5-9eb3-d82c35d552d6",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_BJwAHt": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slideshow-04.jpg",
+            "heading": "OUR KITS",
+            "heading_size": "h1",
+            "subheading": "THE PERFECT KITS FOR BEGGINERS",
+            "button_label": "DISCOVER KITS",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-bace516d-93ec-4db5-9eb3-d82c35d552d6",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "slide_QGjMPK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slideshow-02.jpg",
+            "heading": "TRAVEL POUCH",
+            "heading_size": "h1",
+            "subheading": "SPEND $85 AND GET 1 FREE",
+            "button_label": "ALL COLLECTIONS",
+            "link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-bace516d-93ec-4db5-9eb3-d82c35d552d6",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Uj3ag7",
+        "slide_CRUcpJ",
+        "slide_BJwAHt",
+        "slide_QGjMPK"
+      ],
+      "custom_css": [
+        "h2 {font-size: 15px;}",
+        "p {font-size: 30px;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_xqyDYy",
+    "featured_collection"
+  ]
+}
